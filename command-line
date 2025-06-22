@@ -1,0 +1,6 @@
+# Navigate to your backend directory
+cd wactobus-backend
+
+# Run the application using Maven
+./mvnw spring-boot:run
+
